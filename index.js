@@ -17,7 +17,7 @@ function loadFile(filename) {
     return {};
   }
   return dotenv.parse(fs.readFileSync(filename));
-}
+}ï
 
 /**
  * Run an interactive prompt to update an object of environment variables.
