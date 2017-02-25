@@ -1,4 +1,7 @@
 # interactive-env
+
+[![Travis](https://img.shields.io/travis/mathewtole/interactive-env.svg?style=flat-square)](https://travis-ci.org/matthewtole/interactive-env) [![npm](https://img.shields.io/npm/v/interactive-env.svg?style=flat-square)](https://www.npmjs.com/package/interactive-env) [![license](https://img.shields.io/github/license/matthewtole/interactive-env.svg?style=flat-square)](./LICENCE)
+
 Simple Node.js command line tool for initialising your environment variables
 
 ## Installation
