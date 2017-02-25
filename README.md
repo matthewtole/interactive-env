@@ -4,6 +4,8 @@
 
 Simple Node.js command line tool for initialising your environment variables
 
+[![asciicast](https://asciinema.org/a/11dn9q7pbndxolecjsjw4xxz6.png)](https://asciinema.org/a/11dn9q7pbndxolecjsjw4xxz6)
+
 ## Installation
 
 You can install interactive-env globally so you can use it across all of your projects, or as a dependency in package.json so that everyone who works on the project can use it. 
