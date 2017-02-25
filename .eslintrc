@@ -1,0 +1,27 @@
+{
+  "extends": "airbnb",
+  "plugins": [
+    "jest"
+  ],
+  "env": {
+    "jest/globals": true
+  },
+  "rules": {
+    "jest/no-disabled-tests": "warn",
+    "jest/no-focused-tests": "error",
+    "jest/no-identical-title": "error",
+    "max-len": [2, 85, 4, {"ignoreUrls": true}],
+    "valid-jsdoc": [1, {
+      "prefer": {
+        "return": "returns"
+      }
+    }],
+    "require-jsdoc": [1, {
+      "require": {
+        "FunctionDeclaration": true,
+        "MethodDefinition": true,
+        "ClassDeclaration": true
+      }
+    }]
+  }
+}
